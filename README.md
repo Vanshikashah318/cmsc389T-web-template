@@ -1,4 +1,4 @@
-# cmsc388T-web-template
+# cmsc389T-web-template
 
 ## Color Family
 Greyish blue: #394a51
