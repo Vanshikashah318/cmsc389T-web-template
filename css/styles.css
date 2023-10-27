@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Optima;
-  background-color: #FCF7FF;
+  background-color: #394a51;
 }
 
 .center {
@@ -23,18 +23,18 @@ header {
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: #655560;
+  background: #7fa99b;
   padding: 2%;
   text-align: center;
 
 }
 
 .panel {
-  background-color: #655560;
-  color: #FCF7FF;
+  background-color: #7fa99b;
+  color:black ;
 
   width: 100%;
-  height: 30vh;
+  height: 35vh;
 
   margin-left: 2%;
   margin-right: 10%;
@@ -50,7 +50,7 @@ header {
 
 footer {
   display: flex;
-  background-color: #655560;
+  background-color: #7fa99b;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -110,12 +110,12 @@ html {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   margin: 0;
 }
 
 #image {
-  height: 30vh;
+  height: 40vh;
   margin: 35vh;
 
   margin-left: 22%;
@@ -167,7 +167,7 @@ h3 {
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
-  background-color: #655560;
+  background-color: #7fa99b;
 }
 
 /* Style the links inside the navigation bar */
@@ -177,7 +177,7 @@ h3 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 /* Change the color of links on hover */
@@ -189,7 +189,7 @@ h3 {
 /* Add an active class to highlight the current page */
 .topnav a.active {
   background-color: #878C8F;
-  color: white;
+  color: black;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -212,7 +212,7 @@ h3 {
 .same-line {
   display: flex;
   justify-content: space-between;
-  background-color: #655560;
+  background-color: #7fa99b;
 
 }
 
@@ -264,7 +264,7 @@ h3 {
   float: left;
   width: 33.33%;
   padding: 1%;
-  height: 50vh;
+  height: 55vh;
   /* Should be removed. Only for demonstration */
 }
 
