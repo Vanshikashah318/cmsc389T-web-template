@@ -22,7 +22,9 @@ Topaz: #fdc57b;
 ## HTML
 1) Added github link 
 2) Added Linkedin link
+
 3) Added my info 
+
 4) This is my gitHub pages link https://vanshikashah318.github.io/cmsc389T-web-template/
 
 
